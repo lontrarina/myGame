@@ -3,12 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Tear
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - 
@@ -40,4 +41,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2854463445
+    locked: 0
+  - name: Mountains
+    uniqueID: 75230121
+    locked: 0
+  - name: Graveyard
+    uniqueID: 1761803715
+    locked: 0
+  - name: Decorations
+    uniqueID: 1820290121
+    locked: 0
+  - name: Earth
+    uniqueID: 3801954751
+    locked: 0
+  - name: Characters
+    uniqueID: 1092832667
     locked: 0
